@@ -20,5 +20,5 @@ Goal : Build a simple concurrent stock server based on concurrent event-based se
 
 Goal : Understand how a dynamic memory allocator works and implement it based on the idea of Segmentation List.
 
-mm.c is the main program I implemented. Most of the macros and basic code lines are similar to the ones in the textbook (CS:APP). Built based on the idea of Seglist.
+- mm.c is the main program I implemented. Most of the macros and basic code lines are similar to the ones in the textbook (CS:APP). Built based on the idea of Seglist.
 run the program with the command ./mdriver or ./mdriver -v. Has 90/100 score. (memory utilization : 50 + throughput : 40)
